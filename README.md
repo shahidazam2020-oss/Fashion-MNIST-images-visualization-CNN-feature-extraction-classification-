@@ -1,0 +1,2 @@
+# Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-
+A Python deep learning project using TensorFlow and Keras to classify Fashion MNIST clothing images with a Convolutional Neural Network (CNN). The project includes dataset visualization, class distribution analysis, CNN model training, accuracy and loss evaluation, learning curves, confusion matrix analysis, and model architecture visualization.
