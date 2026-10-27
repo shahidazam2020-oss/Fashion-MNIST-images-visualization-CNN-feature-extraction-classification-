@@ -314,3 +314,5 @@ I enjoy building complete software systems—from networking and operating syste
 </a>
     
 <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
