@@ -127,7 +127,7 @@ The notebook includes a dedicated function for visualizing these learning curves
 
 **After training, the CNN is used to predict the classes of the test images.**
 
-The predicted probabilities are converted into predicted class labels using `argmax`.
+**The predicted probabilities are converted into predicted class labels using `argmax`.**
 
 ```python
 test_predictions = model.predict(test_images)
