@@ -107,7 +107,7 @@ model.fit(
 
 ## 📉 Learning Curve Analysis
 
-The project generates learning curves to monitor model performance during training.
+**The project generates learning curves to monitor model performance during training.**
 
 Two major plots are produced:
 
