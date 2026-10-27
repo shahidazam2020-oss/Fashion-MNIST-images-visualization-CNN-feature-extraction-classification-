@@ -156,7 +156,7 @@ It provides a detailed view of:
 
 ## 🔄 Model Comparison
 
-The notebook also creates a second CNN model using the normalized image data.
+**The notebook also creates a second CNN model using the normalized image data.**
 
 The performance of the original and normalized models is compared using:
 
