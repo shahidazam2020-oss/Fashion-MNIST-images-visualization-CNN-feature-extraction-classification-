@@ -125,7 +125,7 @@ The notebook includes a dedicated function for visualizing these learning curves
 
 ## 🔍 Model Prediction
 
-After training, the CNN is used to predict the classes of the test images.
+**After training, the CNN is used to predict the classes of the test images.**
 
 The predicted probabilities are converted into predicted class labels using `argmax`.
 
