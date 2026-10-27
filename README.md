@@ -150,7 +150,7 @@ It provides a detailed view of:
 
 **The project uses a heatmap to visualize the confusion matrix, with the 10 Fashion-MNIST classes displayed on both axes.**
 
-This is particularly useful for identifying categories that the CNN finds difficult to distinguish, such as visually similar clothing items.
+**This is particularly useful for identifying categories that the CNN finds difficult to distinguish, such as visually similar clothing items.**
 
 ---
 
