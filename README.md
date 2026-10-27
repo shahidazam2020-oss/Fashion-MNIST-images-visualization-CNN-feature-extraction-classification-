@@ -54,7 +54,7 @@ test_images = test_images / 255.0
 
 **This converts the pixel values from the original 0–255 range to a normalized range between 0 and 1.**
 
-The notebook also performs a second normalized-model experiment to compare the training and validation performance.
+**The notebook also performs a second normalized-model experiment to compare the training and validation performance.**
 
 ---
 
