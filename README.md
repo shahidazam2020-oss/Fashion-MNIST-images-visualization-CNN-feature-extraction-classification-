@@ -285,7 +285,7 @@ using **Jupyter Notebook**, **JupyterLab**, or **Google Colab**.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About the Developer
 
 **Shahid Azam**
 
