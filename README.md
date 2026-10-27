@@ -254,7 +254,7 @@ using **Jupyter Notebook**, **JupyterLab**, or **Google Colab**.
 
 ### 4. Run the Cells
 
-Execute the notebook cells sequentially to:
+**Execute the notebook cells sequentially to:**
 
 1. Load Fashion-MNIST
 2. Visualize sample images
