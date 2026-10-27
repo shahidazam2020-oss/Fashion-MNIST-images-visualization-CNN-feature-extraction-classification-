@@ -101,7 +101,7 @@ model.fit(
 * Training loss
 * Validation loss
 
-This information is later used to visualize the learning curves.
+**This information is later used to visualize the learning curves.**
 
 ---
 
