@@ -271,7 +271,7 @@ Execute the notebook cells sequentially to:
 
 ## 🎓 Learning Outcomes
 
-This project demonstrates practical experience with:
+**This project demonstrates practical experience with:**
 
 * Deep learning
 * Convolutional Neural Networks
