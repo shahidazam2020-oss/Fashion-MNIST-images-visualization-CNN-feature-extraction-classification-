@@ -187,7 +187,7 @@ It provides a detailed view of:
 
 ## 💡 Use of This Project
 
-This software/project can be used for:
+**This software/project can be used for:**
 
 * 👕 Automatic clothing image classification
 * 🤖 Demonstrating computer vision using deep learning
