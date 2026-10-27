@@ -181,7 +181,7 @@ It provides a detailed view of:
 * **Convolutional Neural Networks (CNN)**
 * **Jupyter Notebook**
 
-The notebook imports TensorFlow, NumPy, Scikit-learn's confusion-matrix functionality, Seaborn, and Matplotlib.
+**The notebook imports TensorFlow, NumPy, Scikit-learn's confusion-matrix functionality, Seaborn, and Matplotlib.**
 
 ---
 
