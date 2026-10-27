@@ -62,7 +62,7 @@ test_images = test_images / 255.0
 
 The project uses a **Convolutional Neural Network (CNN)** implemented with TensorFlow/Keras.
 
-The architecture consists of:
+**The architecture consists of:**
 
 * **Conv2D layer** with 32 filters
 * **MaxPooling2D layer**
