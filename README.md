@@ -10,7 +10,7 @@ The project demonstrates the complete machine learning workflow, including **dat
 
 ## 🎯 Project Objective
 
-The main objective of this project is to develop a deep learning model capable of automatically recognizing and classifying fashion images into their corresponding categories.
+**The main objective of this project is to develop a deep learning model capable of automatically recognizing and classifying fashion images into their corresponding categories.**
 
 The model classifies images into **10 different categories**:
 
