@@ -289,4 +289,5 @@ using **Jupyter Notebook**, **JupyterLab**, or **Google Colab**.
 
 **Shahid Azam**
 
-This project demonstrates practical skills in **Python, TensorFlow, Keras, Deep Learning, CNNs, Computer Vision, Data Preprocessing, Model Evaluation, and Data Visualization**.
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
