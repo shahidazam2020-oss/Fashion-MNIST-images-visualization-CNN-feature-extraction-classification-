@@ -134,7 +134,7 @@ test_predictions = model.predict(test_images)
 test_predictions_labels = np.argmax(test_predictions, axis=1)
 ```
 
-The predicted labels are then compared with the actual test labels.
+**The predicted labels are then compared with the actual test labels.**
 
 ---
 
