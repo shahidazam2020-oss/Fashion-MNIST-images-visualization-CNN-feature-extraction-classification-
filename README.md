@@ -94,7 +94,7 @@ model.fit(
 )
 ```
 
-During training, the notebook stores the training history, including:
+**During training, the notebook stores the training history, including:**
 
 * Training accuracy
 * Validation accuracy
