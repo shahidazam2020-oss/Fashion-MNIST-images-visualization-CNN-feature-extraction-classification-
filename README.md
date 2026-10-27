@@ -165,7 +165,7 @@ It provides a detailed view of:
 * Training loss
 * Validation loss
 
-The project therefore demonstrates how preprocessing can be evaluated by comparing model learning behavior and performance.
+**The project therefore demonstrates how preprocessing can be evaluated by comparing model learning behavior and performance.**
 
 ---
 
