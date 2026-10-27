@@ -25,7 +25,7 @@ The model classifies images into **10 different categories**:
 9. Bag
 10. Ankle boot
 
-These class names are explicitly defined in the project notebook.
+**These class names are explicitly defined in the project notebook.**
 
 ---
 
