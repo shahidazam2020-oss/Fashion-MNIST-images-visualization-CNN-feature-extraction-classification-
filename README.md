@@ -295,3 +295,5 @@ using **Jupyter Notebook**, **JupyterLab**, or **Google Colab**.
 Institute of Management Sciences, Peshawar, Pakistan
 
 I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
+
+- 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
