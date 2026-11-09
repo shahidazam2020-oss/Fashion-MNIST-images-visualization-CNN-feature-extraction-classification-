@@ -343,3 +343,4 @@ If this project helps you understand machine learning for healthcare prediction,
 If you find this project useful for **learning, research, or machine-learning practice**, consider giving the repository a ⭐.
 Your feedback, suggestions, and contributions are welcome.
 <p align="center">
+**🧠 Learn • 💻 Build • 📊 Analyze • 🤖 Experiment • 🚀 Improve**
