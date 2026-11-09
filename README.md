@@ -324,5 +324,4 @@ I enjoy building complete software systems—from networking and operating syste
 </p>
 
 ---
-# ⭐ Repository
-<div align="center">
+# ⭐ If You Find This Project Useful
