@@ -1,5 +1,5 @@
 # 👕 Fashion-MNIST Image Classification Using CNN
-
+<div align="center">
   <a href="https://github.com/shahidazam2020-oss/Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
@@ -9,6 +9,7 @@
   <a href="https://github.com/shahidazam2020-oss/Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-?style=flat-square" alt="Last Commit">
   </a>
+</div>
 
   ---
 ## 📌 Project Overview
