@@ -9,6 +9,8 @@
   <a href="https://github.com/shahidazam2020-oss/Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Fashion-MNIST-images-visualization-CNN-feature-extraction-classification-?style=flat-square" alt="Last Commit">
   </a>
+
+  ---
 ## 📌 Project Overview
 
 This project implements an **image classification system using a Convolutional Neural Network (CNN)** with **TensorFlow and Keras**. The model is trained on the **Fashion-MNIST dataset**, which contains grayscale images representing different types of clothing and fashion items.
